@@ -8,11 +8,11 @@
 
 <h1>系统支持</h1>
 
-Debian 7 
-Debian 8 
-Ubuntu 14 
-Ubuntu 16 
-CentOS 7 
+Debian 7</br> 
+Debian 8 </br> 
+Ubuntu 14 </br> 
+Ubuntu 16 </br> 
+CentOS 7 </br> 
 
 <h1>注意事项</h1>
 
